@@ -1,0 +1,45 @@
+.header_div {
+    text-align: left;
+    padding: .5em
+}
+
+.header_div h2{
+    margin: 1em;
+}
+
+.header_div p{
+    margin: 1em;
+}
+
+.button_div{
+    display: flex;
+}
+
+.header_buttons{
+    border-radius: 6px;
+    margin: 1em;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.new_survey_button{
+    background-color: #0F49D2;
+    color: white;
+}
+
+.export_survey_button{
+    background-color: white;
+    color: #0F49D2;
+    padding-bottom: .5em;
+}
+
+hr.solid {
+    border-top: 1px solid #bbb;
+}
+
+.header_div img{
+    width: 2em;
+    height: 2em;
+    margin-right: .25em;
+}
