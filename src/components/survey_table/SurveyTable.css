@@ -1,0 +1,30 @@
+.surveyTable{
+    border: 1px solid;
+    width: 95%;
+    margin: 1em;
+    margin-right: 1em;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+}
+
+.surveyHeader{
+    /* border: 1px solid; */
+    text-align: left;
+    background-color: lightsteelblue;
+    height: 4em;
+    border-top: solid 1px lightgray;
+}
+
+.surveyCell{
+    /* border: 1px solid; */
+    text-align: left;
+    height: 8em;
+    margin-left: 2em;
+    border-top: solid 1px lightgray;
+}
+
+.tableTitle{
+    text-align: left;
+    margin-left: 2em;
+}

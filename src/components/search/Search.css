@@ -1,0 +1,22 @@
+.searchDiv{
+    display: flex;
+    width: 100%;
+}
+
+.searchInput{
+    align-self: left;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 12px;
+    width: 30em;
+    height: 3em;
+}
+
+.dateInput{
+    position: absolute;
+    right: 6em;
+    width: 20em;
+    height: 3em;
+    border-radius: 12px;
+
+}
